@@ -4,9 +4,6 @@ setup(
     name="ip_subnet_flask",
     version="0.1.0",
     description="A professional IP and subnet calculator web app (Flask)",
-    author="Your Name",
-    author_email="your.email@example.com",
-    url="https://github.com/yourusername/ip_subnet_flask",
     packages=find_packages(),
     include_package_data=True,
     install_requires=[
