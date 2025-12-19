@@ -145,9 +145,8 @@ Automated using **GitHub Actions** (`.github/workflows/ci.yml`):
 
 ---
 
-## 👥 Ownership & Contribution
+## Contribution
 
-* **Maintainers:** Defined in `CODEOWNERS`
 * **Contributing:** See [`CONTRIBUTING.md`](docs/CONTRIBUTING.md)
 
 Contributions are welcome and encouraged!
