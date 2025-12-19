@@ -184,7 +184,5 @@ Contributions are welcome and encouraged!
 
 This project is licensed under the **MIT License**.
 
----
->>>>>>> d4a2e6a (refactor: modularize to src/, add docs, config, scripts, tests, security, CI, and world-class README)
 
 
